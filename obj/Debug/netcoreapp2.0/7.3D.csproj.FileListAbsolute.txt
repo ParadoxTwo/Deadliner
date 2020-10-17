@@ -1,0 +1,11 @@
+C:\Users\WInbr\Documents\Study\T2\OOPS\7.3D\bin\Debug\netcoreapp2.0\7.3D.deps.json
+C:\Users\WInbr\Documents\Study\T2\OOPS\7.3D\bin\Debug\netcoreapp2.0\7.3D.runtimeconfig.json
+C:\Users\WInbr\Documents\Study\T2\OOPS\7.3D\bin\Debug\netcoreapp2.0\7.3D.runtimeconfig.dev.json
+C:\Users\WInbr\Documents\Study\T2\OOPS\7.3D\bin\Debug\netcoreapp2.0\7.3D.dll
+C:\Users\WInbr\Documents\Study\T2\OOPS\7.3D\bin\Debug\netcoreapp2.0\7.3D.pdb
+C:\Users\WInbr\Documents\Study\T2\OOPS\7.3D\obj\Debug\netcoreapp2.0\7.3D.csprojAssemblyReference.cache
+C:\Users\WInbr\Documents\Study\T2\OOPS\7.3D\obj\Debug\netcoreapp2.0\7.3D.csproj.CoreCompileInputs.cache
+C:\Users\WInbr\Documents\Study\T2\OOPS\7.3D\obj\Debug\netcoreapp2.0\7.3D.AssemblyInfoInputs.cache
+C:\Users\WInbr\Documents\Study\T2\OOPS\7.3D\obj\Debug\netcoreapp2.0\7.3D.AssemblyInfo.cs
+C:\Users\WInbr\Documents\Study\T2\OOPS\7.3D\obj\Debug\netcoreapp2.0\7.3D.dll
+C:\Users\WInbr\Documents\Study\T2\OOPS\7.3D\obj\Debug\netcoreapp2.0\7.3D.pdb

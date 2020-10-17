@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Edwin\\Documents\\Study\\T2\\OOPS\\Deadliner\\7.3D.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Edwin\\Documents\\Study\\T2\\OOPS\\Deadliner\\7.3D.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Edwin\\Documents\\Study\\T2\\OOPS\\Deadliner\\7.3D.csproj",
+        "projectName": "7.3D",
+        "projectPath": "c:\\Users\\Edwin\\Documents\\Study\\T2\\OOPS\\Deadliner\\7.3D.csproj",
+        "packagesPath": "C:\\Users\\Edwin\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Edwin\\Documents\\Study\\T2\\OOPS\\Deadliner\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Edwin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
